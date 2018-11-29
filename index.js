@@ -3,7 +3,7 @@ const app = new Vue({
     data: {
         frutas: [
             { nombre: 'Manzana', cantidad: 10 },
-            { nombre: 'Pera', cantidad: 1 },
+            { nombre: 'Pera', cantidad: 0 },
             { nombre: 'Banana', cantidad: 12 },
         ]
     }
